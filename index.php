@@ -87,37 +87,42 @@
                             <path stroke-width="2" stroke-miterlimit="10" d="M1,6.001c1,0,4.049-4.927,6-5 c2.149-0.08,4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.849-5,7-5s4.851,5.08,7,5 c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.849-5,7-5 s4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.851-5.08,7-5c1.951,0.073,5,5,6,5"></path>
                             </svg>
                             <p>
-                                Наш детский сад приглашает детей от 2 до 6 лет. Мы находимся в центре города, что позволяет ходить каждый день в парки и играть в творческие игры на свежем воздухе.
+                                Это так просто - устроить праздник вашему малышу и уделить время себе!
                             </p>
                         </div>
                     </div>
                     <div class="range range-40 blurb-container">
                         <div class="cell-sm-6 cell-md-3">
                             <div class="blurb">
-                                <div class="icon-border icon-lg icon-primary thin-ico thin-icon-thumb-up"></div>
-                                <h5>Здоровое питание</h5>
-                                <p>Органические продукты питания свежеприготовленные в детском саду можно каждый день на нашей кухне.</p>
+                                <div class="icon-border icon-lg icon-primary thin-ico thin-icon-book"></div>
+                                <h5>Образовательные программы</h5>
+                                <p>
+                                    Мы проводим большое число мероприятий, направленный на всестороннее развитие детей.
+                                </p>
                             </div>
                         </div>
                         <div class="cell-sm-6 cell-md-3">
                             <div class="blurb">
-                                <div class="icon-border icon-lg icon-primary thin-ico thin-icon-book"></div>
-                                <h5>Обучение и развлечение</h5>
-                                <p>Широкий спектр мероприятий, чтобы стимулировать изучение языка, такие как искусство и ремесло, выпечка, музыка.</p>
+                                <div class="icon-border icon-lg icon-primary thin-ico thin-icon-thumb-up"></div>
+                                <h5>Широкий спектр услуг</h5>
+                                <p>
+                                    Игровая комната, художественный кружок, ЛФК, хореография, английский язык - все это доступно для Вашего ребенка в нашем детском саду.
+                                </p>
                             </div>
                         </div>
+
                         <div class="cell-sm-6 cell-md-3">
                             <div class="blurb">
                                 <div class="icon-border icon-lg icon-primary thin-ico thin-icon-umbrella"></div>
                                 <h5>Безопасность детей</h5>
-                                <p>Профессиональные воспитатели будут заботиться о безопасности вашего ребенка, так как это наш приоритет # 1.</p>
+                                <p>Профессиональные воспитатели будут заботиться о безопасности вашего ребенка, так как это наш приоритет.</p>
                             </div>
                         </div>
                         <div class="cell-sm-6 cell-md-3">
                             <div class="blurb">
                                 <div class="icon-border icon-lg icon-primary thin-ico thin-icon-map-marker"></div>
                                 <h5>Удобное расположение</h5>
-                                <p>Отличное расположение в центре города</p>
+                                <p>Отличное расположение рядом с центром города</p>
                             </div>
                         </div>
                     </div>
@@ -132,16 +137,25 @@
                             </div>
                         </div>
                         <div class="cell-md-5">
-                            <h3>Наша цель</h3>
+                            <h3>  Мы хотим, чтобы все дети и родители были довольны!</h3>
                             <svg x="0px" y="0px" width="108px" height="7px" viewbox="0 0 108 7" xml:space="preserve" class="decorative-divider">
                             <path stroke-width="2" stroke-miterlimit="10" d="M1,6.001c1,0,4.049-4.927,6-5 c2.149-0.08,4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.849-5,7-5s4.851,5.08,7,5 c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.849-5,7-5 s4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.851-5.08,7-5c1.951,0.073,5,5,6,5"></path>
                             </svg>
-                            <p style="padding-bottom: 50px;">
-                                Мы предлагаем дя Ваших детей выверенный учебный план, основанный на свободных играх, групповой и индивидуальной деятельности. 
-                                Различные мероприятия, включенные в учебном плане основаны на различные ежемесячные темы, такие как космос, огнь, вода, земля, себя, семьи,
-                                окружающие нас люди, птицы, животные, насекомые, растения и многие другие.
-                                Мы хотим, чтобы все дети и родители были довольны!
-                            </p>
+                            <div style="">
+
+                                <p>
+                                    Нашими приоритетными направлениями в воспитательной-образовательной работе с детьми являются:
+                                </p>
+
+                                <ul class="circled" style="padding-left: 30px">
+                                    <li>Социализация детей в обществе сверстников</li>
+                                    <li>Формирование средств общения со взрослыми и детьми</li>
+                                    <li>Ориентировка на личностное развитие детей</li>
+                                    <li>Развитие навыков в ведущих видах деятельности с учетом возмодностей и интересов детей, потребностей родителей</li>
+                                    <li>Всестороннее развитие детей , формирование основ готовности к школьному обучению</li>
+                                </ul>
+
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -156,7 +170,7 @@
                             <path stroke-width="2" stroke-miterlimit="10" d="M1,6.001c1,0,4.049-4.927,6-5 c2.149-0.08,4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.849-5,7-5s4.851,5.08,7,5 c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.849-5,7-5 s4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.851-5.08,7-5c1.951,0.073,5,5,6,5"></path>
                             </svg>
                             <p>
-                                Мы предлагаем три программы обучения для разных возрастных групп.
+                                Для ваших детей в нашем дестком саду будет доступен широкий набор услуг.
 
                             </p>
                         </div>
@@ -165,22 +179,16 @@
                         <div class="cell-sm-6 cell-md-4">
                             <div class="service"><img src="images/home-service-1-352x224.jpg" alt="" width="352" height="224"/>
                                 <h5 class="service-title bg-service-green">
-                                    Маленькие
+                                    Игровая комната
                                 </h5>
                                 <div class="content-wraper">
                                     <div class="service-propose clearfix">
-                                        <div class="propose">
-                                            <p>14</p>
-                                            <div class="small">кол-во мест</div>
-                                        </div>
-                                        <div class="propose">
-                                            <p>1-2</p>
-                                            <div class="small">возраст</div>
-                                        </div>
-                                        <div class="propose">
-                                            <p>5000</p>
-                                            <div class="small">цена</div>
-                                        </div>
+                                        <br/>
+                                        <p>
+                                            Мобильная, стетичная, развивающая. Оснащена современными игровыми комплексами и игрушками.<br/><br/>
+                                            Детская игровая комната ВСЕГДА ОТКРЫТА ДЛЯ ДЕТЕЙ с 9.00 до 20.00. Вы можете оставить ребенка на несколько часов.
+
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -188,21 +196,32 @@
                         <div class="cell-sm-6 cell-md-4">
                             <div class="service"><img src="images/home-service-2-352x224.jpg" alt="" width="352" height="224"/>
                                 <h5 class="service-title bg-service-orange">
-                                    Средние
+                                    Образовательные программы
                                 </h5>
                                 <div class="content-wraper">
                                     <div class="service-propose clearfix">
-                                        <div class="propose">
-                                            <p>14</p>
-                                            <div class="small">кол-во мест</div>
-                                        </div>
-                                        <div class="propose">
-                                            <p>2-4</p>
-                                            <div class="small">возраст</div>
-                                        </div>
-                                        <div class="propose">
-                                            <p>5000</p>
-                                            <div class="small">цена</div>
+                                        <div class="service-propose clearfix ">
+                                            <br/>
+                                            <ul class="">
+                                                <li>
+                                                    <b>Художественный кружок</b>
+                                                </li>
+                                                <li>
+                                                    <div><b>ЛФК</b></div>
+                                                    <div>
+                                                        Профилактика нарушений осанки и плоскостопия, коррекция недостатков.                                                        
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <b>Хореография</b>
+                                                </li>
+                                                <li>
+                                                    <b>Английский язык</b>
+                                                </li>
+                                                <li>
+                                                    <b>Аниматоры для детей</b>
+                                                </li>
+                                            </ul>
                                         </div>
                                     </div>
 
@@ -212,21 +231,41 @@
                         <div class="cell-sm-6 cell-md-4">
                             <div class="service"><img src="images/home-service-3-352x224.jpg" alt="" width="352" height="224"/>
                                 <h5 class="service-title bg-service-blue">
-                                    Большие
+                                    Развивающие игры
                                 </h5>
                                 <div class="content-wraper">
                                     <div class="service-propose clearfix">
-                                        <div class="propose">
-                                            <p>14</p>
-                                            <div class="small">кол-во мест</div>
-                                        </div>
-                                        <div class="propose">
-                                            <p>5-6</p>
-                                            <div class="small">возраст</div>
-                                        </div>
-                                        <div class="propose">
-                                            <p>5000</p>
-                                            <div class="small">цена</div>
+                                        <div class="service-propose clearfix ">
+                                            <br/>
+                                            <ul class="">
+                                                <li>
+                                                    <div><b>Ребятам о зверятах</b></div>
+                                                    <div>
+                                                        Ознакомление с окружающим миром
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div><b>Цветные ладошки</b></div>
+                                                    <div>
+                                                        Рисование, лепка, аппликация
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div><b>Поргыгайка</b></div>
+                                                    <div>
+                                                        Физкультура, занятия спортом
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div><b>АБВГДейка</b></div>
+                                                    <div>
+                                                        Грамота, обучение чтению
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div><b>и многое другое!</b></div>
+                                                </li>
+                                            </ul>
                                         </div>
                                     </div>
 
@@ -251,24 +290,28 @@
                     </div>
                     <div class="range range-40">
                         <div class="cell-sm-6 cell-md-3">
-                            <div data-from="0" data-to="21" class="counter">21</div>
-                            <h5>Воспитатель</h5>
+                            <div data-from="0" data-to="5" class="counter">5</div>
+                            <h5>Воспитателей</h5>
                             <p>
                                 У нас работают только квалифицированные преподаватели, которые посвящают свою жизнь к образованию
                             </p>
                         </div>
                         <div class="cell-sm-6 cell-md-3">
-                            <div data-from="0" data-to="07" class="counter">07</div>
-                            <h5>Групп</h5>
+                            <div style="    font-size: 72px;
+                                 line-height: 1;
+                                 font-family: 'Titan One', 'Times New Roman', Times, serif;">
+                                <span style="font-family: 'Open Sans', Helvetica, Arial, sans-serif;font-size: 40px;">от</span> 1.5
+                            </div>
+                            <h5>лет</h5>
                             <p>
-                                Каждый год мы работаем с 7 группами очень талантливых детей всех возрастов.
+                                С такого возраста мы принимаем детей в группы.
                             </p>
                         </div>
                         <div class="cell-sm-6 cell-md-3">
-                            <div data-from="0" data-to="560" class="counter">560</div>
-                            <h5>Детей</h5>
+                            <div data-from="0" data-to="3" class="counter">3</div>
+                            <h5>Раза в неделю</h5>
                             <p>
-                                С самого начала нашей работы, мы дали необходимые знания для многих детей.
+                                Занятия длятся 1-2 часа, 2-3 раза в неделю. По окончании занятий все дети бесплатно могут поиграть в игровой комнате.
                             </p>
                         </div>
                         <div class="cell-sm-6 cell-md-3">
@@ -286,12 +329,14 @@
                 <div class="shell text-center">
                     <div class="range range-sm-center">
                         <div class="cell-sm-10 cell-md-6">
-                            <h3>Команда</h3>
+                            <h3>
+                                Команда
+                            </h3>
                             <svg x="0px" y="0px" width="108px" height="7px" viewbox="0 0 108 7" xml:space="preserve" class="decorative-divider">
                             <path stroke-width="2" stroke-miterlimit="10" d="M1,6.001c1,0,4.049-4.927,6-5 c2.149-0.08,4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.849-5,7-5s4.851,5.08,7,5 c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.849-5,7-5 s4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.851-5.08,7-5c1.951,0.073,5,5,6,5"></path>
                             </svg>
                             <p>
-                                Полностью квалифицированный и опытный преподавательский коллектив, с энтузиазмом и преданностью дошкольного образования.
+                                Мы уделяем большое внимание квалификации нашего коллектива, в студии работают профессиональные педагоги, специалисты, практики.
                             </p>
                         </div>
                     </div>
@@ -348,6 +393,9 @@
                             <svg x="0px" y="0px" width="108px" height="7px" viewbox="0 0 108 7" xml:space="preserve" class="decorative-divider">
                             <path stroke-width="2" stroke-miterlimit="10" d="M1,6.001c1,0,4.049-4.927,6-5 c2.149-0.08,4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.849-5,7-5s4.851,5.08,7,5 c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.849-5,7-5 s4.851,5.08,7,5c1.951-0.073,4.049-4.927,6-5c2.149-0.08,4.849,5,7,5s4.851-5.08,7-5c1.951,0.073,5,5,6,5"></path>
                             </svg>
+                            <p>
+                                Мы с радостью ответим на все Ваши вопросы!
+                            </p>
                         </div>
                     </div>
                     <div class="range range-sm-center range-md-left">
@@ -373,12 +421,12 @@
             </section>
 
             <!-- Координаты из гугл-карт y - широта, х - долгота -->
-            <section id="contact-section" data-zoom="16" data-y="51.52018972485674" data-x="46.01390451192856" 
+            <section id="contact-section" data-zoom="16" data-y="51.53802089534608" data-x="45.97607731819153" 
                      data-styles="[{&quot;featureType&quot;: &quot;administrative.country&quot;,&quot;elementType&quot;: &quot;geometry&quot;,&quot;stylers&quot;: [{&quot;visibility&quot;: &quot;simplified&quot;},{&quot;hue&quot;: &quot;#ff0000&quot;}]}]" 
                      class="section rd-google-map rd-google-map__model">
                 <ul class="map_locations">
-                    <li data-y="51.52018972485674" data-x="46.01390451192856">
-                        <p>9870 St Vincent Place, Glasgow, DC 45 Fr 45.</p>
+                    <li data-y="51.53802089534608" data-x="45.97607731819153" >
+                        <p>ул. Шелковичная, ЖК Царицынский 1,  г. Саратов</p>
                     </li>
                 </ul>
             </section>
@@ -397,7 +445,7 @@
                                     <div class="unit-body">
                                         <p>
                                             <a href="#" class="link">
-                                                ул. Чапаева 1/5
+                                                ул. Шелковичная, ЖК Царицынский 1
                                                 <br>
                                                 г. Саратов
                                             </a>
@@ -414,7 +462,9 @@
                                     </div>
                                     <div class="unit-body">
                                         <p>
-                                            <a href="callto:#" class="link phone">+8 (8452) 999-999</a>
+                                            <a href="tel:+78452600310" class="link phone">+7 (8452) 600-310</a>
+                                            <br/>
+                                            <a href="tel:+79020440310" class="link phone">+7 (902) 044-03-10</a>
                                         </p>
                                     </div>
                                 </div>

@@ -3205,6 +3205,12 @@ ol {
     padding: 0;
     margin: 0;
 }
+
+ul.circled
+{
+     list-style: circle;
+}
+
 .list>li+li {
     margin-top: 10px;
 }
