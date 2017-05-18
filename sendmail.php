@@ -8,7 +8,7 @@ if (isset($_POST['phone'])) {
     $email = strip_tags(trim($_POST['phone']));
     $message = strip_tags(trim($_POST['message']));
 
-    $from = 'info@teremoc64.com';
+    $from = 'klerik12@bk.ru';
     $message = '<div><p>Заявка на обратный звонок <b>' . $_SERVER['SERVER_NAME'] . '</b></p>
       <p><b>Контактные данные:</b><br />
       &emsp;Имя: ' . $name . '<br />
