@@ -3208,7 +3208,7 @@ ol {
 
 ul.circled
 {
-     list-style: circle;
+    list-style: circle;
 }
 
 .list>li+li {
@@ -8775,6 +8775,10 @@ html:not(.lt-ie10) .not-animated {
     font-family: "Titan One", "Times New Roman", Times, serif;
     font-weight: 400;
     line-height: 1.2;
+    background-color: #fff;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
 }
 .rd-navbar-brand img {
     max-height: 100px;

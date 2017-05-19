@@ -12,7 +12,7 @@
 
         <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,600,700%7CTitan+One">
         <link rel="stylesheet" href="css/bootstrap.css">
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/style.css?v=1">
         <!--[if lt IE 10]>
 <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="https://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
 <script src="js/html5shiv.min.js"></script>
@@ -27,7 +27,7 @@
                             <div class="rd-navbar-inner">
                                 <div class="rd-navbar-cell rd-navbar-panel">
                                     <button data-rd-navbar-toggle=".rd-navbar-nav" class="rd-navbar-toggle"><span class="toggle-icon"></span></button>
-                                    <a href="./" class="rd-navbar-brand"><img src="images/brand.png" alt=""></a>
+                                    <a href="./" class="rd-navbar-brand"><img src="images/logo_1.png" alt=""></a>
                                 </div>
                                 <div class="rd-navbar-cell rd-navbar-nav-wrap">
                                     <ul class="rd-navbar-nav">
